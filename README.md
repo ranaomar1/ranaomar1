@@ -1,7 +1,7 @@
 # Hi 👋 I'm Rana
 
 💻 Software Engineering Student
-🚀 Interested in Mobile Apps & Backend Development
+🚀 Interested in Mobile Apps
 📚 Currently learning Flutter & ASP.NET
 
 ---
@@ -23,4 +23,4 @@
 
 ## 📫 Contact Me
 
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/rana-omar-5789a52a9
