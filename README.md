@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rana
 
-💻 Software Engineering Student
+💻 Software Engineer
 🚀 Interested in Mobile Apps
 📚 Currently learning Flutter & ASP.NET
 
