@@ -19,7 +19,7 @@
 * Digital Wallet System 💳
 * Recipe Book App 🍲
 * To Do App 🍲
-* Student Manegment Syystem 
+* Student Manegment System 
 
 ---
 
